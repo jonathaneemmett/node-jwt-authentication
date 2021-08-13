@@ -1,0 +1,5 @@
+// I use a 64 character string for my JWT secrets.. I suggest you use at least 32.
+{
+  "mongoURI": "YOUR_MONGODB_CONNECTION_STRING",
+  "jwtSecret": "YOUR_RANDOM_JWT_SECRET"
+}
